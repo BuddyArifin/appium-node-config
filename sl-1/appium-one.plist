@@ -8,7 +8,7 @@
 		<false/>
 	</dict>
 	<key>Label</key>
-	<string>com.olx.appium</string>
+	<string>com.olx.appium.node1</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/local/bin/appium</string>
