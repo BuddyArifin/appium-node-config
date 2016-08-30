@@ -16,7 +16,7 @@
 		<string>-p=7777</string>
 		<string>--session-override</string>
 		<string>-U=192.168.56.102:5555</string>
-		<string>--nodeconfig=/Users/buddy/jenkins/workspace/AT/UP_GENYnd/emu2.json</string>
+		<string>--nodeconfig=/Users/macmini-test02/jenkins/workspace/AT/UP_GENYnd/sl-2/emu2.json</string>
 	</array>
 	<key>Debug</key>
 	<true/>
