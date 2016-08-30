@@ -15,7 +15,7 @@
 		<string>-bp=9999</string>
 		<string>-p=7777</string>
 		<string>--session-override</string>
-		<string>-U=192.168.60.102:5555</string>
+		<string>-U=192.168.65.102:5555</string>
 		<string>--nodeconfig=/Users/buddy/jenkins/workspace/AT/UP_GENYnd/emu2.json</string>
 	</array>
 	<key>Debug</key>
