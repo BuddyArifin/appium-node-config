@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KeepAlive</key>
+	<dict>
+		<key>SuccessfulExit</key>
+		<false/>
+	</dict>
+	<key>Label</key>
+	<string>com.olx.appium</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/local/bin/appium</string>
+		<string>-bp=4744</string>
+		<string>-p=4723</string>
+		<string>--session-override</string>
+		<string>-U=192.168.60.101:5555</string>
+		<string>--nodeconfig=/Users/buddy/jenkins/workspace/AT/UP_GENYst/emu1.json</string>
+	</array>
+	<key>Debug</key>
+	<true/>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardOutPath</key>
+	<string>/Users/buddy/Library/Logs/appium-one.log</string>
+	<key>StandardErrorPath</key>
+	<string>/Users/buddy/Library/Logs/appium_error_one.log</string>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>PATH</key>
+		<string>/bin:/usr/bin:/usr/local/bin</string>
+		<key>java</key>
+		<string>/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/bin/java</string>
+		<key>ANDROID_HOME</key>
+		<string>/Users/buddy/Documents/android</string>
+	</dict>
+</dict>
+</plist>
