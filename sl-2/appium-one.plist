@@ -23,9 +23,9 @@
 	<key>RunAtLoad</key>
 	<true/>
 	<key>StandardOutPath</key>
-	<string>/Users/buddy/Library/Logs/appium-one.log</string>
+	<string>/Users/macmini-test02/Library/Logs/appium-one.log</string>
 	<key>StandardErrorPath</key>
-	<string>/Users/buddy/Library/Logs/appium_error_one.log</string>
+	<string>/Users/macmini-test02/Library/Logs/appium_error_one.log</string>
 	<key>EnvironmentVariables</key>
 	<dict>
 		<key>PATH</key>
