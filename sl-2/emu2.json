@@ -2,7 +2,7 @@
   "capabilities":
       [
         {
-                "deviceName": "192.168.56.102:5555",
+                "deviceName": "emulator-5554",
                 "version":"5.0",
                 "maxInstances": 1,
                 "platformName":"ANDROID"
