@@ -2,7 +2,7 @@
   "capabilities":
       [
         {
-                "deviceName": "emulator-5554",
+                "deviceName": "emul",
                 "version":"5.0",
                 "maxInstances": 1,
                 "platformName":"ANDROID"
@@ -13,8 +13,8 @@
     "cleanUpCycle":2000,
     "timeout":50000,
     "proxy": "org.openqa.grid.selenium.proxy.DefaultRemoteProxy",
-    "url":"http://172.16.10.177:7777/wd/hub",
-    "host": "172.16.10.177",
+    "url":"http://172.16.10.128:7777/wd/hub",
+    "host": "172.16.10.128",
     "port": 7777,
     "maxSession": 1,
     "register": true,
