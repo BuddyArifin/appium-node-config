@@ -16,7 +16,7 @@
 		<string>-p=4545</string>
 		<string>--session-override</string>
 		<string>-U=emulator-5558</string>
-		<string>--nodeconfig=/Users/macmini-test02/jenkins/workspace/AT/UP_GENYnd/sl-2/emu2.json</string>
+		<string>--nodeconfig=/Users/macmini-test02/jenkins/workspace/AT/UP_GENYnd/sl-2/emu3.json</string>
 	</array>
 	<key>Debug</key>
 	<true/>
