@@ -12,7 +12,7 @@
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/local/bin/appium</string>
-		<string>-bp=5555</string>
+		<string>-bp=18000</string>
 		<string>-p=4545</string>
 		<string>--session-override</string>
 		<string>-U=emulator-5558</string>
