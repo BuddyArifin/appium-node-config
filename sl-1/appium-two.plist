@@ -15,7 +15,7 @@
 		<string>-bp=9999</string>
 		<string>-p=7777</string>
 		<string>--session-override</string>
-		<string>-U=emulator-5554</string>
+		<string>-U=emulator-5556</string>
 		<string>--nodeconfig=/Users/buddy/jenkins/workspace/AT/UP_GENYst/sl-1/emu2.json</string>
 	</array>
 	<key>Debug</key>

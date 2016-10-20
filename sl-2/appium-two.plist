@@ -15,7 +15,7 @@
 		<string>-bp=9999</string>
 		<string>-p=7777</string>
 		<string>--session-override</string>
-		<string>-U=emulator-5554</string>
+		<string>-U=emulator-5556</string>
 		<string>--nodeconfig=/Users/macmini-test02/jenkins/workspace/AT/UP_GENYnd/sl-2/emu2.json</string>
 	</array>
 	<key>Debug</key>
