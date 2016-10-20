@@ -19,7 +19,7 @@
     "maxSession": 1,
     "register": true,
     "registerCycle": 5000,
-    "hubPort": 4444,
+    "hubPort": 7575,
     "hubHost": "hubip"
   }
 }
